@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-color-board/static/css/main.f99602f9.css",
+    "main.js": "/react-color-board/static/js/main.f50a64ad.js",
+    "index.html": "/react-color-board/index.html",
+    "main.f99602f9.css.map": "/react-color-board/static/css/main.f99602f9.css.map",
+    "main.f50a64ad.js.map": "/react-color-board/static/js/main.f50a64ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99602f9.css",
+    "static/js/main.f50a64ad.js"
+  ]
+}
